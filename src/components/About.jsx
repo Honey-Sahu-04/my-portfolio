@@ -77,7 +77,7 @@ export default function About() {
               className="text-gray-400 leading-relaxed mb-10 text-sm"
             >
               Beyond code, I've solved{" "}
-              <span className="text-white font-semibold">130+ DSA problems</span> on LeetCode,
+              <span className="text-white font-semibold">150+ DSA problems</span> on LeetCode,
               strengthening my problem-solving and algorithmic thinking skills.
             </motion.p>
 
