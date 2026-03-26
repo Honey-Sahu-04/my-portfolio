@@ -5,7 +5,7 @@ const stats = [
   { num: "8.13", label: "CGPA" },
   { num: "3+", label: "Projects" },
   { num: "8+", label: "Certificates" },
-  { num: "150+", label: "DSA Solved" },
+  { num: "180+", label: "DSA Solved" },
 ];
 
 const fadeUp = {
@@ -77,7 +77,7 @@ export default function About() {
               className="text-gray-400 leading-relaxed mb-10 text-sm"
             >
               Beyond code, I've solved{" "}
-              <span className="text-white font-semibold">150+ DSA problems</span> on LeetCode,
+              <span className="text-white font-semibold">180+ DSA problems</span> on LeetCode,
               strengthening my problem-solving and algorithmic thinking skills.
             </motion.p>
 
