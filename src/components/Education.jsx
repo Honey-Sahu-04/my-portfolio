@@ -64,12 +64,12 @@ export default function Education() {
                   <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-3 mb-3">
                     <div>
                       <div className="flex items-center gap-2 flex-wrap">
-                        <h3 className="font-bold text-white">{edu.institution}</h3>
+                        <h3 className="font-bold text-white">{edu.degree}</h3>
                         {edu.current && (
                           <span className="text-[10px] px-2 py-0.5 rounded-full bg-orange-500/10 text-orange-400 border border-orange-500/20">Current</span>
                         )}
                       </div>
-                      <div className="text-gray-400 text-xs mt-1">{edu.degree}</div>
+                      <div className="text-gray-400 text-xs mt-1">{edu.institution}</div>
                     </div>
                     <div className="text-right shrink-0">
                       <div className="text-orange-400 font-bold text-sm">{edu.score}</div>
