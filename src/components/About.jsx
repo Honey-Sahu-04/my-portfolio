@@ -5,7 +5,7 @@ const stats = [
   { num: "8.13", label: "CGPA" },
   { num: "3+", label: "Projects" },
   { num: "8+", label: "Certificates" },
-  { num: "130+", label: "DSA Solved" },
+  { num: "150+", label: "DSA Solved" },
 ];
 
 const fadeUp = {
